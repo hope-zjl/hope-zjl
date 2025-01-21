@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+![访客人数](https://profile-counter.glitch.me/hope-zjl/count.svg)
+
+
 <!--
 **hope-zjl/hope-zjl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,3 +26,4 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hope-zjl&layout=compact&theme=dark&hide_border=true)
 
 ![Ghazi's github stats](https://github-readme-stats.vercel.app/api?username=hope-zjl&show_icons=true&hide_border=true&theme=dark)
+
